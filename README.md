@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&pause=1000&width=435&lines=Hello+World!++This+is+Cindy+speaking+%3A)" alt="Typing SVG" /></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CindyCindy424)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CindyCindy424)](https://github.com/anuraghazra/github-readme-stats) -->
