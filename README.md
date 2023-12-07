@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-👉👉 Visit My <a href="http://106.14.156.67:9999/">Personal Website </a> 👈👈
+<!--👉👉 Visit My <a href="http://106.14.156.67:9999/">Personal Website </a> 👈👈 -->
 
 <!--
 **CindyCindy424/CindyCindy424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
